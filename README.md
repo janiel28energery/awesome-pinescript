@@ -4,7 +4,7 @@
 **A Comprehensive Collection of Everything Related to Tradingview Pine Script.**
 
 ## Table of Contents
-- [awesome-pinescript      ](#awesome-pinescript------)
+ - [awesome-pinescript      ](#awesome-pinescript------)
   - [Table of Contents](#table-of-contents)
   - [Official Resources](#official-resources)
   - [Community](#community)
